@@ -28,5 +28,1225 @@
       ""
     ],
     "correct": 0
+  },
+  {
+    "question": "Conjuntos de vehículos: ",
+    "options": [
+      "A_ se configuran de dos que son el tractor y la tractora con su semirremolque.",
+      "B_ la unidad de dos vehículos circulando o más vehículos de dos o más vehículos.",
+      "C_ aquellos automóviles que arrastran uno o varios remolques.",
+      ""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Tren de carretera:",
+    "options": [
+      "A_ son aquellos vehículos que en algunos casos suelen superar las dimensiones o las masas máximas autorizadas",
+      "B_ será aquel automóvil que arrastra uno o varios remolques.",
+      "C_ se configuran de dos que son el tractor y la tractora con su semirremolque.",
+      ""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Conjuntos de vehículos: ",
+    "options": [
+      "A_ será aquel automóvil que arrastra uno o varios remolques.",
+      "B_ la unidad de dos vehículos circulando o más vehículos de dos o más vehículos.",
+      "C_ se configuran de dos que son el tractor y la tractora con su semirremolque.",
+      ""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Transportes intermodales:",
+    "options": [
+      "A_ son cargas que necesitan ser manipuladas grupadas almacenadas clasificadas embaladas para su transporte definitivo.",
+      "B_ no precisan operación o intervención para dicha carga tal como se recibe se entrega (ej.: carga de contenedor de los puertos).",
+      "C_ es aquel transporte que necesita dos elementos para ser transportado el marítimo (mínimo 100km en línea recta) y el terrestre (radio máximo de 150km).",
+      "D_ no se puede ser divisible sin coste o riesgo alguno."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Cargas Indivisibles:",
+    "options": [
+      "A_ son cargas que necesitan ser manipuladas grupadas almacenadas clasificadas embaladas para su transporte definitivo.",
+      "B_ no precisan operación o intervención para dicha carga tal como se recibe se entrega (ej.: carga de contenedor de los puertos).",
+      "C_ son aquellos transportes que necesitan dos elementos para ser transportado el marítimo (mínimo 100km en línea recta) y el terrestre (radio máximo de 150km).",
+      "D_ no se puede ser divisible sin coste o riesgo alguno."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Cargas Fraccionadas:",
+    "options": [
+      "A_ son cargas que necesitan ser manipuladas grupadas almacenadas clasificadas embaladas para su transporte definitivo.",
+      "B_ no precisan operación o intervención para dicha carga tal como se recibe se entrega (ej.: carga de contenedor de los puertos).",
+      "C_ son aquellos transportes que necesitan dos elementos para ser transportado el marítimo (mínimo 100km en línea recta) y el terrestre (radio máximo de 150km).",
+      "D_ no se puede ser divisible sin coste o riesgo alguno."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cargas Completas:",
+    "options": [
+      "A_ son cargas que necesitan ser manipuladas grupadas almacenadas clasificadas embaladas para su transporte definitivo.",
+      "B_ no precisan operación o intervención para dicha carga tal como se recibe se entrega (ej.: carga de contenedor de los puertos).",
+      "C_ son aquellos transportes que necesitan dos elementos para ser transportado el marítimo (mínimo 100km en línea recta) y el terrestre (radio máximo de 150km).",
+      "D_ no se puede ser divisible sin coste o riesgo alguno."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "La longitude máxima para vehículos regidos incluido sus remolques es: ",
+    "options": ["A_ 12m", "B_ 18.75m", "C_ 16.50m", "D_ 25m"],
+    "correct": 0
+  },
+  {
+    "question": "La longitude máxima para camión euromedular o mega camión (tren de carretera (conjunto de vehículo de grandes dimensiones que tiene 7 o más ejes) es: ",
+    "options": ["A_ 12m", "B_ 18.75m", "C_ 16.50m", "D_ 25m"],
+    "correct": 3
+  },
+  {
+    "question": "La longitude máxima para vehículos articulados tren de carretera (vehículo automóvil + remolque) es:",
+    "options": ["A_ 12m", "B_ 18.75m", "C_ 16.50m", "D_ 25m"],
+    "correct": 1
+  },
+  {
+    "question": "La longitude máxima para vehículos articulados (tracto camión con semirremolque (trailer) ) es:",
+    "options": ["A_ 12m", "B_ 18.75m", "C_ 16.50m", "D_ 25m"],
+    "correct": 2
+  },
+  {
+    "question": "quel es la anchura maxima estandar?",
+    "options": ["A_ 2.45m", "B_ 2.55m", "C_ 2.60m", ""],
+    "correct": 1
+  },
+  {
+    "question": "quel es la anchura maxima de vehiculos superestructuras (vehículos que trabajan a temperaturas dirigidas ej:frigorificos): ?",
+    "options": ["A_ 2.45m", "B_ 2.55m", "C_ 2.60m", ""],
+    "correct": 2
+  },
+  {
+    "question": "14. Si conduce un camión de 5.000 kilogramos de masa máxima autorizada por una carretera convencional, fuera de poblado, debe tener en cuenta que, como regla general, le está prohibido circular a una velocidad inferior a...",
+    "options": [
+      "A_ a) 50 kilómetros por hora.",
+      "B_ b) 60 kilómetros por hora.",
+      "C_ c) la mitad de la máxima genérica señalada para los camiones en este tipo de vía.",
+      "D_ expli: En las carreteras convencionales la velocidad mínima es la mitad de la máxima que tenga el vehículo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "15. Se considera que se obstaculiza gravemente a la circulación con el hecho de efectuar una parada...",
+    "options": [
+      "A_ a) en una zona reservada a carga y descarga.",
+      "B_ b) en doble fila.",
+      "C_ c) impidiendo la entrada o salida de personas a un inmueble.",
+      "D_ Explicación: Las entradas a viviendas deben quedar despejadas para facilitar el acceso a las personas que allí residen, por lo que se debe evitar en todo caso obstruirlas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "16. Si los niveles rojo y amarrillo de restricción de paso en un puerto de montaña, persisten más de dos días consecutivos, ¿puede la DGT autorizar a determinados vehículos a circular?",
+    "options": [
+      "A_ a) Si, pero solo a los de hasta 3.500 kg. De MMA.",
+      "B_ b) Si, a los de entre 3500 kg y 7.500 kg. De MMA. que realicen transportes esenciales.",
+      "C_ c) Solo en nivel amarillo, pero no en el rojo.",
+      "D_ Explicación: Si los niveles rojo y amarillo persisten durante más de dos días consecutivos, la DGT puede modificar excepcionalmente las restricciones para permitir que determinados vehículos rígidos de más de 3.500 Kg. y menos de 7.500 Kg. que realicen servicios de transportes esenciales, puedan circular con nivel rojo y amarillo."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "17. Como norma general, ¿qué distancia de seguridad debe mantener con el vehículo que le precede, si conduce un camión de 3.500 kg de MMA, por una carretera convencional con un carril por sentido?",
+    "options": [
+      "A_ a) 50 metros.",
+      "B_ b) 150 metros.",
+      "C_ c) La que permita detener mi vehículo en caso de frenado brusco, sin colisionar con el vehículo que me precede y la que además permita al que me siga detrás adelantar con seguridad.",
+      "D_ Explicación:  Cuando circule detrás de otro vehículo, debe dejar un espacio que le permita detenerse, en caso de frenado brusco, sin colisionar. A estos efectos, los conductores de vehículos con más de 3.500Kg de MMA y vehículos y conjuntos de vehículos de más de 10 metros de longitud, guardarán una separación mínima de 50 metros. Será suficiente mantener una distancia para no colisionar (no necesario guardar distancia para que nos adelanten): - En poblado. - Donde esté prohibido adelantar. - Donde hubiese más de un carril en el mismo sentido. - Cuando la circulación esté saturada. - Cuando tenga la intención de adelantar."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "El conductor de un vehículo extiende el brazo horizontalmente con la palma de la mano hacia atrás, ¿qué indica?",
+    "options": [
+      "A_ A) Que va a circular marcha atrás.",
+      "B_ B) Que va a girar a la izquierda.",
+      "C_ C) Que tiene intención de inmovilizar el vehículo o de frenar su marcha de modo considerable.",
+      "D_ Expli: La maniobra de marcha atrás será señalizada para que otros usuarios de la vía la adviertan con la correspondiente luz de marcha atrás si el vehículo la llevara, y en caso contrario se señalizará extendiendo el brazo horizontalmente con la palma de la mano hacia atrás."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Se denomina Tren de carretera al…",
+    "options": [
+      "A_ A) Automóvil constituido por un vehículo de motor enganchado a un remolque.",
+      "B_ B) Automóvil constituido por un vehículo de motor acoplado a 1 semirremolque.",
+      "C_ C) Automóvil concebido y construido para realizar, principalmente, el arrastre de un remolque o semirremolque.",
+      "D_ Expli: Un tren de carretera es un conjunto de vehículos constituido por un vehículo de motor con un remolque enganchado. Este conjunto se considerará de tipo pesado si su Masa Máxima Autorizada, compuesta por la suma de los dos ve´hículo que lo conforman, es superior a 3500 kilogramos."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El permiso C autoriza a la conducción de automóviles con una MMA:",
+    "options": [
+      "A_ A) De más de 3,5Tn hasta 12Tn.",
+      "B_ B) De más de 3,5Tn hasta 7,5Tn.",
+      "C_ C) De más de 3,5Tn.",
+      "D_ Expli: Un conductor que obtenga el permiso de conducción de la clase C estará habilitado para manejar automóviles con una Masa Máxima superior a 3500 kilogramos."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cómo se denominan las partes del cigüeñal que le sirven de unión al bloque motor?",
+    "options": [
+      "A_ A) Codos.",
+      "B_ B) Casquillos.",
+      "C_ C) Apoyos.",
+      "D_ Expli: Los apoyos son las partes del cigüeñal que lo unen al bloque motor. Dichos apoyos giran y descansan sobre unos cojinetes antifricción, llamados de bancada; las muñequillas giran dentro de las cabezas de las bielas, que las unen a los pistones; los contrapesos conectan los apoyos con las muñequillas y su forma les permite equilibrar y suavizar el esfuerzo del motor."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es la distancia lateral mínima de seguridad para adelantar a un turismo?",
+    "options": [
+      "A_ A) 1.50 m. como mínimo.",
+      "B_ B) 1.50 m. máximo.",
+      "C_ C) La longitud proporcional a la velocidad y a las características de la calzada.",
+      "D_ Expli: La distancia lateral mínima al realizar un adelantamiento, se establecerá de manera general como aquella suficiente y “proporcional a la velocidad y a las características y anchura de la calzada. En el caso particular de vehículos de dos ruedas, peatones, animales o vehículos de tracción animal, dicha limitación mínima se concreta en 1,50 metros."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si conducimos un camión, y vemos esta señal, ¿qué distancia será aconsejable que mantengamos con el vehículo que va delante y al que pretende adelantar?",
+    "options": [
+      "A_ A) 70 metros como mínimo, en cualquier caso.",
+      "B_ B) 70 metros como máximo.",
+      "C_ C) 70 metros como mínimo, excepto para adelantar.",
+      "D_ Expli: La señal de restricción R-300 de la imagen nos indica que se debe mantener una distancia de, al menos, 70 metros con el vehículo que circula delante, salvo que se tenga intención de adelantar en cuyo caso solamente se deberá mantener la distancia de seguridad."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Para bajar un puerto de montaña, deberá usar, respecto a la marcha con la que subió,...",
+    "options": [
+      "A_ A) una marcha igual.",
+      "B_ B) cualquier marcha.",
+      "C_ C) una marcha superior.",
+      "D_ Expli: Cuando circulemos bajando un puerto de montaña nunca deberemos descender dicha pendiente en punto muerto, ya que ello puede comprometer la seguridad del vehículo. Es por ello que utilizaremos para bajar una marcha igual respecto de la que se utilizó para subir."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El Reglamento (CE) 56-2006 de 15 de Marzo se aplica al transporte por carreta realizado ...",
+    "options": [
+      "A_ A) En todos los países de Europa, aunque no pertenezcan a la CEE",
+      "B_ B) En países de la Comunidad, Suiza y países participantes de Espacio Económico Europeo",
+      "C_ C) En todos los países de la Comunidad Económica Europea",
+      "D_ Expli: El Reglamento (CE) nº 561-2006 del Parlamento Europeo y del Consejo de 15 de Marzo de 2006 regula todas las cuestiones relacionadas con el uso del tacógrafo. Se aplica al transporte por carretera realizado exclusivamente en la Comunidad Europea, Suiza y los países que son parte contratante del Acuerdo sobre el Espacio Económico Europeo."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Se entiende por vehículo industrial:",
+    "options": [
+      "A_ A) Los remolques y semirremolques de M.M.A superior a 3,5Tn.",
+      "B_ B) Vehículos de motor dedicados al transporte de viajeros que no tengan más de 9 asientos incluido el del conductor y sus remolques.",
+      "C_ C) Vehículos de motor dedicados al transporte de mercancías con M.M.A no superior a 3,5Tn, pero no así sus remolques.",
+      "D_ Expli: El Reglamento de Circulación considerará como vehículo industrial a aquellos remolques y semirremolques de Masa Máxima Autorizada superior a 3500 kilogramos."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si debemos conducir un camión de más de 3500 kg de MMA por una vía urbana con tres carriles para el mismo sentido, ¿por qué carril deberemos circular si los carriles no están delimitados por marcas longitudinales?",
+    "options": [
+      "A_ A) Por el carril de la derecha o el central.",
+      "B_ B) Por el carril de la derecha.",
+      "C_ C) Por el que mejor convenga a mi destino.",
+      "D_ Expli: En vías urbanas, cuando dispongan de más de un carril para el mismo sentido los conductores podrán circular por el que más convenga al destino, si estos carriles están delimitados por marcas longitudinales. Si los carriles no están delimitados, se debe circular por la derecha."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Camión en el que las mercancías se transportan en receptáculo abierto por la parte superior es la definición de un vehículo automóvil:",
+    "options": [
+      "A_ A) Góndola",
+      "B_ B) De caja abierta",
+      "C_ C) Plataforma",
+      "D_ Expli: La definición que el reglamento da del camión de caja abierta dice que es aquel tipo de camión en el que las mercancías se transportan en receptáculo abierto por la parte superior, y en el que los laterals pueden ser fijos o abatibles."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Me estará permitido circular con un camión de dos ejes simples si el eje no motor soporta una masa de 10 toneladas?",
+    "options": [
+      "A_ A) No.",
+      "B_ B) SÍ, siempre.",
+      "C_ C) Sí, siempre que la MMA del vehículo no exceda de 18 toneladas.",
+      "D_ Expli: La masa máxima autorizada de un camión de dos ejes es de 18 toneladas. Por otro lado, la masa máxima autorizada de un eje no motor es de 10 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Dónde se expedirá el cuaderno TIR?",
+    "options": [
+      "A_ A) En el país de salida.",
+      "B_ B) En el país de destino.",
+      "C_ C) Es indiferente.",
+      "D_ Expli: El convenio TIR establece las normas para que en el transporte entre aduanas de dos países diferentes no sean necesarias las inspecciones en las aduanas de los países intermedios, ni en sus fronteras. El cuaderno TIR se expide en el país de salida de la mercancía o en el país en el que este establecido o domiciliado el titular de la misma."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La MMA de un eje doble cuya distancia entre ejes es de 1,25 metros, no puede ser superior a...",
+    "options": [
+      "A_ A) 18 toneladas.",
+      "B_ B) 11,5 toneladas.",
+      "C_ C) 16 toneladas.",
+      "D_ Expli: La MMA de un eje tándem en el que la separación entre los ejes sea igual o superior a 1 metro e inferior a 1,30 metros es de 16 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué efecto produce un tubo de escape roto o deteriorado?",
+    "options": [
+      "A_ A) Aumenta la emisión de gases contaminantes a la atmósfera.",
+      "B_ B) Aumenta el consumo de carburante.",
+      "C_ C) Aumenta la contaminación acústica.",
+      "D_ Expi: Un vehículo con el tubo de escape roto o deteriorado tendrá prohibida la circulación en vías públicas ya que aumentará considerablemente la contaminación acústica al no silenciar correctamente el ruido del motor. La circulación de un vehículo sin dispositivo silenciador de explosiones o con el denominado escape libre estará totalmente prohibido por el Reglamento General de Vehículos."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si su vehículo destinado a obras y servicios matriculado el 14 de Octubre de 2002 y con una antigüedad de 5 años, paso la última ITV con fecha 14 de Octubre de 2006, ¿Cuándo deberá pasar de nuevo la ITV?",
+    "options": [
+      "A_ A) Tendrá que pasarla antes del 14 de Octubre de 2009, ya que ese tipo de vehículos con antigüedad de 4 a 10 años están obligados a pasar la ITV cada dos años.",
+      "B_ B) Tendrá que pasarla antes del 14 de Octubre de 2008, ya que ese tipo de vehículos con antigüedad de 4 a 10 años están obligados a pasar la ITV cada dos años.",
+      "C_ C) Tendrá que pasarla antes del 14 de Octubre de 2010, ya que ese tipo de vehículos con antigüedad de 4 a 10 años están obligados a pasar la ITV cada dos años.",
+      "D_ Expli: Los vehículos de obras, englobados en la categoría de vehículos especiales, deberán pasar su primera revisión ITV a los 4 años tras su fecha de matriculación en este caso en el 2006 como ya se hizo. De los 4 a los 10 años tras su primera matriculación deberán pasar la revisión cada 2 aós, y cuando supere los 10 años de antigüedad deberá hacerlo cada año."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Según la normativa de pesos y dimensiones, un vehículo motor de 2 ejes con semirremolque de 3 ejes llevando, en transporte combinado, un contenedor o caja móvil cerrados, igual o superior a 20 pies y homologado para el transporte combinado, tiene como Masa Máxima Autorizada:",
+    "options": [
+      "A_ A) 36 toneladas.",
+      "B_ B) 42 toneladas.",
+      "C_ C) 38 toneladas.",
+      "D_ Expli: El anexo IX del Reglamento General de Vehículos establece en 42 toneladas la masa máxima autorizada para un vehículo de motor con 2 ejes y con semirremolque de 3 ejes llevando, en transporte combinado, un contenedor o caja móvil cerrados, igual o superior a 20 pies y homologado para el transporte combinado. En caso de que el vehículo de motor tenga 3 ejes y el semirremolque 2 o 3, pasaría a 44 toneladas."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Cómo deben ir señalizadas entre la puesta y la salida del sol, las cargas que sobresalgan por la parte trasera del vehículo?",
+    "options": [
+      "A_ A) Con una luz blanca o, en su defecto, con un dispositivo reflectante blanco.",
+      "B_ B) Únicamente con un panel (V-20).",
+      "C_ C) Con uno o dos paneles (V-20) y una luz roja.",
+      "D_ Expli: Cuando la carga sobresalga por la parte trasera del vehículo, deberá ir señalizada con un panel V-20 y si además la carga sobresale en toda la anchura trasera, se colocarán dos paneles. En ambos casos,entre la puesta y la salida del sol se debe añadir, además, una luz de color rojo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué tipo de vehículo podrá tener una anchura total de 2,60 metros?",
+    "options": [
+      "A_ A) Los vehículos grúa.",
+      "B_ B) Ninguno.",
+      "C_ C) Las superestructuras de los vehículos acondicionados.",
+      "D_ Expli: Como norma general, la anchura máxima de los vehículos es de 2,55 metros.Como excepción, los vehículos adaptados al transporte de presos o las superestructuras de los vehículos acondicionados pueden llegar a medir 2,60 metros de anchura."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si poseo un vehículo destinado al transporte con una MMA inferior a 3,5 t con una antigüedad de 6 años. ¿Cada cuanto tiempo tendré que pasar la Inspección Técnica del Vehículo?",
+    "options": [
+      "A_ A) La pasaré cada año, hasta que la antigüedad del vehículo sobrepase los 10, antes de que cumpla el plazo de la anterior.",
+      "B_ B) La pasaré cada dos años, hasta que la antigüedad del vehículo sobrepase los 8, antes de que cumpla el plazo de la anterior.",
+      "C_ C) La pasaré cada dos años, hasta que la antigüedad del vehículo sobrepase los 10, antes de que cumpla el plazo de la anterior.",
+      "D_ Expli: Los vehículos y conjuntos de vehículos dedicados al transporte de mercancías con Masa Máxima Autorizada inferior a 3500 kilogramos deberán pasar una primera inspección técnica del vehículo a los dos años tras su primera matriculación. A partir de ahí y hasta los 6 años de antigüedad la inspección se realizará cada dos años. Desde los 6 hasta los 10 años de antigüedad la inspección será anual y en los vehículos de más de 10 años se realizará cada 6 meses."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Un vehículo que su MMA sea superior a 6 toneladas se considera...",
+    "options": [
+      "A_ A) Pesado o ligero, dependiendo de la cantidad de mercancía que lleve.",
+      "B_ B) Ligero, si su carga útil no supera las 3,5 toneladas.",
+      "C_ C) Ligero, si su carga útil no supera las 4,5 toneladas.",
+      "D_ Expli: Atendiendo a la definición que el Regalemtno de Ordenación Territorial Terrestre ofrece, diremos que un vehículo ligero será aquel especialmente acondicionado para el transporte de mercancías cuyo peso máximo autorizado no exceda de 6 toneladas, o que, aun sobrepasando dicho peso, tenga una capacidad de carga útil no superior a 3,5 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": " ¿Cuál es la tasa de alcohol en sangre que no deben superar los conductores de vehículos destinados al transporte de mercancías con MMA de 3.250 kg?",
+    "options": [
+      "A_ A) 0,3 gramos por litro de sangre.",
+      "B_ B) 0,5 gramos por litro de sangre.",
+      "C_ C) 0,15 gramos por litro de sangre.",
+      "D_ Expl: La norma general dice, que los conductores de transporte de mercancías con un vehículo de menos de 3500 kilogramos de Masa Máxima Autorizada no podrán conducir con una tasa de alcoholemia superior a 0,25 miligramos por litro de aire espirado y 0,5 gramos por litro en sangre. Vigilar de no caer en la trampa, solo serán 0.15 en aire espirado si el vehículo de mercancías supera los 3500kg."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Según su propia naturaleza, los transportes por carretera se podrán clasificar en:",
+    "options": [
+      "A_ A) Públicos y complementarios.",
+      "B_ B) Nacionales e internacionales.",
+      "C_ C) Públicos y privados.",
+      "D_ Expli: Los transportes por carretera pueden ser: - Públicos: Los que se llevan a cabo por cuenta ajena, mediante retribución ajena. -Privados: los que se llevan a cabo por cuenta propia, para satisfacer necesidades particulares o como complemento de otras actividades realizadas por empresas del mismo sujeto."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué podré hacer para reducir la posibilidad de sufrir un accidente si el vehículo que nos sigue circula demasiado cerca del nuestro?",
+    "options": [
+      "A_ A) Acelerar para aumentar la distancia respecto al vehículo de detrás",
+      "B_ B) Disminuir la distancia de seguridad frontal en al menos un segundo.",
+      "C_ C) Aumentar la distancia de seguridad frontal y, en caso necesario, frenar con tiempo y de forma progresiva.",
+      "D_ Expli: Cuando el vehículo que nos sigue se nos acerca demasiado, tendremos que aumentar nosotros la distancia de seguridad con el vehículo que circule delante nuestro, señalizar las maniobras con tiempo suficiente y si hay que frenar, hacerlo con suavidad y progresivamente"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué garantiza el sistema neumático de suspensión utilizado por algunos camiones de gran tonelaje?",
+    "options": [
+      "A_ A) La mejora del comportamiento del vehículo, ya que aumenta el peso suspendido en cada uno de los ejes del mismo.",
+      "B_ B) La disminución de la sobrecarga que existía sobre los muelles mecánicos.",
+      "C_ C) La nivelación automática de la carrocería.",
+      "D_ Expli: El sistema de suspension neumática que encontramos en algunos camiones de gran tonelaje aprovecha la instalación de aire comprimido para el circuito de alimentación y permite la nivelación automatic de la carrocería en function de la carga transportada."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Queda prohibido parar:",
+    "options": [
+      "A_ A) En intersecciones y sus proximidades si se dificulta el giro a otros vehículos",
+      "B_ B) Donde esté prohibido estacionar",
+      "C_ C) En las intersecciones y sus proximidades si genera peligro por dificultar el giro",
+      "D_ Expli: Todos los vehículos tendrán prohibido parar en las intersecciones y en sus proximidades si se dificulta el giro a otros vehículos o, en vías interurbanas, si se genera peligro por falta de visibilidad."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Por definición, un vehículo automóvil Góndola es un:",
+    "options": [
+      "A_ A) Camión cuya plataforma de carga tiene una altura reducida.",
+      "B_ B) Camión en el que las mercancías se transportan sobre una superficie plana sin protecciones laterales.",
+      "C_ C) Camión en el que las mercancías se transportan en receptáculo abierto por la parte superior",
+      ""
+    ],
+    "correct": 0
+  },
+  {
+    "question": "3. Su camión de 12.000 kg de MMA y 8 años de antigüedad acaba de realizar con éxito la inspección técnica de vehículos, ¿Cuándo deberá pasar la próxima ITV?",
+    "options": [
+      "A_ A) En el plazo de 6 meses",
+      "B_ B) En el plazo de 3 meses",
+      "C_ C) En el plazo de 1 año",
+      "D_ Expli: Los vehículos dedicados al transporte de mercancías o cosas, de Masa Máxima Autorizada superior a 3,5 toneladas deberán pasar la Inspección Técnica de Vehículos 1 vez al año, si el vehículo tiene menos de 10 años de antigüedad y cada 6 meses si el vehículo tiene una antigüedad superior a los 10 años."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si un camión con una MMA de 10.500 kg se encuentra detenido en tiempo de espera en un paso fronterizo, su conductor estará...",
+    "options": [
+      "A_ A) en período de descanso.",
+      "B_ B) en período de pausa.",
+      "C_ C) en período de disponibilidad.",
+      "D_ Expli: Cuando el conductor de un camión deje de conducir y vaya a realizar otras actividades como detenerse en un paso, descansar, u otros trabajos el tacógrafo quedará en periodo de disponibilidad si no se indica otra cosa. Al parar el vehículo, el tacógrafo selecciona automáticamente la actividad de otros trabajos."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si debemos conducir un camión de más de 3500 kg de MMA por una vía urbana con tres carriles para el mismo sentido, ¿por qué carril deberemos circular si los carriles no están delimitados por marcas longitudinales?",
+    "options": [
+      "A_ A) Por el carril de la derecha o el central.",
+      "B_ B) Por el que mejor convenga a mi destino.",
+      "C_ C) Por el carril de la derecha.",
+      "D_ Expli: En vías urbanas, cuando dispongan de más de un carril para el mismo sentido los conductores podrán circular por el que más convenga al destino, si estos carriles están delimitados por marcas longitudinales. Si los carriles no están delimitados, se debe circular por la derecha."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "En una vía dentro de poblado, ¿le está permitido estacionar en doble fila para efectuar la descarga del camión que conduce?",
+    "options": [
+      "A_ A) Sí, por el tiempo indispensable, cuando no se perturbe la circulación y no haya espacio libre en las proximidades.",
+      "B_ B) Sí, sin más condición que no perturbar la circulación.",
+      "C_ C) No, en ningún caso.",
+      "D_ Expli: El estacionamiento en doble fila estará totalmente prohibido en vías dentro de poblado aunque se realice para efectuar tareas de carga y descarga de vehículos de transporte de mercancías. La carga y descarga deberá realizarse siempre con la máxima rapidez posible y por el lado del vehículo más próximo a la acera."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Puede circular con su camión por una vía que tiene en la entrada esta señal (blaca zar9a fiha wata)?",
+    "options": [
+      "A_ A) Sí.",
+      "B_ B) Solamente si la MMA del camión es igual o inferior a 3.500 kg.",
+      "C_ C) No.",
+      "D_ Expli: En las vías para automóviles, únicamente no podrán circular los ciclomotores y vehículos especiales. La MMA no importa."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si pretende estacionar su camión de 4000 kg de MMA en una pendiente descendente, ¿qué precauciones debe adoptar?",
+    "options": [
+      "A_ A) Dejarlo calzado con cualquier elemento aunque no esté expresamente destinado a ese fin.",
+      "B_ B) Dejarlo calzado apoyando una de las ruedas directrices en el bordillo de la acera, inclinando aquéllas hacia el centro de la calzada.",
+      "C_ C) Dejarlo calzado apoyando una de las ruedas directrices sobre el bordillo de la acera e inclinandola aquellas hacia fuera de la calzada",
+      "D_ Expli: Cuando deseemos parar o estacionar un vehículo de más de 3.500 kilogramos de MMA, y dicha parada o estacionamiento se realice en una pendiente descendiente, su conductor deberá apagar el motor, y colocar la marcha atrás (en caso de pendiente descendente); además deberemos dejarlo debidamente calzado obligatoriamente, bien sea por medio de la colocación de calzos o bien apoyando las ruedas directrices en el bordillo de la acera."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si está obligado a la utilización del tacógrafo, y desea fraccionar el descanso diario en dos periodos, debe tener en cuenta que...",
+    "options": [
+      "A_ A) el primer periodo debe de ser de al menos 3 horas y el segundo de al menos 9 horas.",
+      "B_ B) sólo podrá hacerse a estos efectos, dos descansos de 5 horas y 30 minutos cada uno.",
+      "C_ C) no podrá reducir el descanso diario más de dos veces por semana.",
+      "D_ Expli: Si el camión cuenta con tacógrafo y se desea realizar un descanso fraccionado, esto quiere decir que se deberán encontrar dos períodos: El primero de ellos será un descanso continuado de 3 horas como mínimo y el segundo otro descanso de al menos 9 horas ininterrumpidas , antes de que hayan trascurrido las 24 horas. El orden siempre ha de ser 3+9. El siguiente periodo de 24 horas empezará al finalizar el descanso de 9 horas."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es la tasa de alcohol en sangre que no deben superar los conductores de vehículos destinados al transporte de mercancías con MMA de 3.250 kg?",
+    "options": [
+      "A_ A) 0,3 gramos por litro de sangre.",
+      "B_ B) 0,15 gramos por litro de sangre.",
+      "C_ C) 0,5 gramos por litro de sangre.",
+      "D_ Expli: La norma general dice, que los conductores de transporte de mercancías con un vehículo de menos de 3500 kilogramos de Masa Máxima Autorizada no podrán conducir con una tasa de alcoholemia superior a 0,25 miligramos por litro de aire espirado y 0,5 gramos por litro en sangre. Vigilar de no caer en la trampa, solo serán 0.15 en aire espirado si el vehículo de mercancías supera los 3500kg."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si un camión dispone de un eje doble o tándem con una distancia entre ejes de 1,50 metros, debo saber que su MMA será de:",
+    "options": [
+      "A_ A) 18 toneladas.",
+      "B_ B) 11,5 toneladas.",
+      "C_ C) 16 toneladas.",
+      ""
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si conduciendo su camión llega a un estrechamiento sin señalizar y en sentido contrario llega a la vez una autocaravana, ¿qué vehículo deberá dar marcha atrás si no es posible el cruce simultáneo de los dos vehículos?",
+    "options": [
+      "A_ A) El que haya recorrido mayor distancia en el.",
+      "B_ B) La autocaravana.",
+      "C_ C) El camión que conduzco.",
+      ""
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si tengo la intención de conducir un camión cuya MMA es de 7.000 kg deberé tener como mínimo el permiso de conducción de la clase...",
+    "options": [
+      "A_ A) C1.",
+      "B_ B) C1+E.",
+      "C_ C) C.",
+      "D_ Expli: Para conducir camiones que no superen los 7500 kg de MMA, se necesita ser titular de un permiso de la clase C1."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuándo se considera que un estacionamiento o una parada obstaculiza gravemente la circulación?",
+    "options": [
+      "A_ A) Cuando se obstaculiza la utilización normal de los pasos rebajados para disminuidos físicos.",
+      "B_ B) Cuando se efectúen en doble fila.",
+      "C_ C) Cuando se efectúan en espacios prohibidos en una vía pública calificada de atención preferente.",
+      ""
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si no pretende adelantar, a la vista de la señal, ¿Qué distancia de seguridad tendrá que mantener con el vehicula que circula delante? (Señal r300 da2ira hamra fiha joj watat wmaktouba 70m.)",
+    "options": [
+      "A_ A) 70 metros, pero solo si circula detrás de un turismo.",
+      "B_ B) Igual o superior a 70 metros.",
+      "C_ C) Igual o inferior a 70 metros.",
+      "D_ Expli: La señal vertical de restricción R-300 establece la prohibición de circular sin mantener con el vehículo precedente, una separación igual o mayor a la indicada en la señal. Es por ello que en dicha imagen, con un 70 dentro de la señal esta será la distancia de seguridad mínima a dejar."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "La autorización excepcional de un camión en régimen de transporte especial, fijará una velocidad máxima de circulación que no superará...",
+    "options": [
+      "A_ A) la que figure en la tarjeta ITV y en ningún caso superior a los 50km-h.",
+      "B_ B) la que figure en la tarjeta ITV, y en ningún caso los 60km-h.",
+      "C_ C) los 60 km-h, excepto si la tarjeta de la ITV autoriza a circular a una velocidad superior.",
+      "D_ Expli: En los vehículos en régimen de transporte especial que circulen con autorización excepcional, la velocidad máxima de circulación permitida será la fijada en la autorización, que en ningún caso superará los 60 km-hora. Sobre estas limitaciones prevalecerán las mas restrictivas que figuren en la tarjeta ITV."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "En un motor, además de engrasar las piezas móviles y las paredes del cilindro ¿qué otra utilidad tiene el aceite?",
+    "options": [
+      "A_ A) Aumentar la potencia del motor.",
+      "B_ B) Refrigerar y evitar la excesiva dilatación de las piezas.",
+      "C_ C) No tiene más utilidad.",
+      "D_ Expli: El aceite del motor sirve para lubricar sus partes metálicas, disminuye la fricción de las partes móviles evitando así el desgaste. También enfría el motor retirando el calor de los pistones y evitando así la excesiva dilatación de sus piezas."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si el eje motor de su camión es un eje simple, la M.M.A sobre dicho eje no podrá ser superior a...",
+    "options": [
+      "A_ A) 10 toneladas.",
+      "B_ B) 11,5 toneladas.",
+      "C_ C) 11 toneladas.",
+      "D_ Expli: En los camiones existe una limitación de peso por eje, en función de si el vehículo tiene un eje simple, un eje tándem o un eje trídem. En el caso de los ejes simples el peso máximo por eje será 11,5 toneladas si se trata de un eje simple motor, y 10 toneladas para los no motor."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué provoca en el conductor el sueño?",
+    "options": [
+      "A_ A) Que se comporte de una forma más peligrosa.",
+      "B_ B) Que disminuya su tiempo de reacción.",
+      "C_ C) Que conduzca con más seguridad.",
+      "D_ Expli: Entre los efectos que la somnolencia puede llegar a provocar en el conductor del vehículo encontraremos un aumento del tiempo de reacción, un comportamiento y una forma de conducer más peligrosa al volante, y un aumento de las distracciones."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuánto puede sobresalir la carga divisible de su camión como norma general?",
+    "options": [
+      "A_ A) Nada.",
+      "B_ B) Dos metros por delante y tres metros por detrás.",
+      "C_ C) 0,40 metros por la parte trasera.",
+      "D_ Expli: Como norma general, la carga no puede sobresalir de la proyección en planta del vehículo. Existen algunas excepciones a esta norma que permiten que sobresalga algo por los laterales y por delante y detrás en los camiones."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A través del espejo retrovisor...",
+    "options": [
+      "A_ A) debo ver como mínimo una distancia de 50 metros en recta y llano.",
+      "B_ B) debo ver como mínimo una distancia de 100 metros en recta y llano.",
+      "C_ C) deben verse los 3 ó 4 ángulos de la ventanilla trasera.",
+      "D_ Expli: El uso del espejo retrovisor es fundamental al conducir un automóvil ya que es el denominado tercer ojo del conductor. Deberemos utilizarlo siempre antes de señalizar una maniobra, cambiar de dirección, frenar o abrir una puerta. A través de los espejos retrovisores ha de verse la circulación por detrás en una distancia mínima de 50 metros en recta y llano."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es la función de la válvula de descarga del sistema de freno de aire?",
+    "options": [
+      "A_ A) Evitar sobrepresiones en el circuito.",
+      "B_ B) Permitir el paso del aire al semi-remolque.",
+      "C_ C) Purgar automáticamente el aire existente en las conducciones del líquido hidráulico.",
+      "D_ Expli: La valvula de descarga del sistema de freno de aire, dejará escapar aire cuando un calderín pase de su presión máxima evitando así sobrepresiones en el circuito del sistema. También se pueden vaciar manualmente por si quedara agua condensada dentro."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "En defecto de señalización, ¿a qué velocidad máxima se permite la circulación de un camión rígido de cuatro ejes por una autovía dentro de poblado?",
+    "options": [
+      "A_ A) A 70 kilómetros por hora.",
+      "B_ B) A 90 kilómetros por hora.",
+      "C_ C) A 80 kilómetros por hora.",
+      "D_ Expli: En defecto de señalización contraria, la velocidad máxima que no deberán rebasar los vehículos, incluidos los camiones rígidos de cuatro ejes en autopistas y autovías dentro de poblado será de 80 kilómetros por hora."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Las velocidad máximas para vehículos especiales:",
+    "options": [
+      "A_ A) 20 km-h, si carece de sistema de frenado",
+      "B_ B) 70 km-h, si supera los 60km-h en llano.",
+      "C_ C) 45 km-h, por norma general",
+      "D_ Expli: Cuando puedan alcanzar una velocidad superior a los 60 km-h en llano y cumplan con la normativa reguladora de los vehículos podrán circular a 70km-h. Si carecen de señalización de frenado, llevan remolque o son motocultores. 25km-h. El resto de vehículos especiales: 40km-h."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A qué velocidad como máximo podrá circular con su camión en un vía para automóviles, con arcén de 1 metro sin pavimentar:",
+    "options": [
+      "A_ A) 80 km-h",
+      "B_ B) 90 km-h",
+      "C_ C) 70 km-h",
+      "D_ Expli: El límite de velocidad máxima que un camión no deberá rebasar en todo tipo de carreteras convencionales tras la modificación del Reglamento de Circulación será de 80 kilómetros-hora. Con este cambio todas las carreteras convencionales se tratarán por igual sea cual sea su arcén (Nueva normativa actualizada a 29-01-2019)."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "La autorización excepcional de un camión en régimen de transporte especial, fijará una velocidad máxima de circulación que no superará...",
+    "options": [
+      "A_ A) los 60 km-h, excepto si la tarjeta de la ITV autoriza a circular a una velocidad superior.",
+      "B_ B) la que figure en la tarjeta ITV y en ningún caso superior a los 50km-h.",
+      "C_ C) la que figure en la tarjeta ITV, y en ningún caso los 60km-h.",
+      "D_ Expli: En los vehículos en régimen de transporte especial que circulen con autorización excepcional, la velocidad máxima de circulación permitida será la fijada en la autorización, que en ningún caso superará los 60 km-hora. Sobre estas limitaciones prevalecerán las mas restrictivas que figuren en la tarjeta ITV."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Los remolques y semirremolques ligeros no necesitan para circular estar matriculados, al no exceder su M.M.A. de 750 kilogramos. La anterior afirmación es...",
+    "options": [
+      "A_ A) Falsa.",
+      "B_ B) Verdadera.",
+      "C_ C) Falsa en todos los casos.",
+      "D_ Expli: Según el Reglamento General de Vehículos, los remolques y semirremolques ligeros, es decir, aquéllos cuya masa máxima autorizada no exceda de 750 kilogramos, no deberán ser matriculados en la Jefatura de Tráfico, y será suficiente con que se matricule el vehículo que lo arrastra."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "En la entrada de una calzada, ¿Qué indica esta señal? (R-415)",
+    "options": [
+      "A_ A) Circulación aconsejable para los vehículos que transporten productos contaminantes del agua.",
+      "B_ B) Circulación obligatoria para los vehículos que transporten más de 1.000 litros de productos contaminantes de agua.",
+      "C_ C) Circulación obligatoria para los vehículos que expli: transporten mercancías fácilmente inflamables.",
+      "D_ La señal vertical de obligación R-415 de la imagen, indica que a partir de éste lugar circularemos por una calzada de uso obligado para vehículos que transporten contaminantes del agua. Específicamente indica a aquellos conductores que transporten más de 1000 litros de productos que puedan contaminar el agua que esta es la vía por la que deben transitar y les obliga a su uso."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si Usted se encuentra con su camión averiado en el arcén de una vía interurbana, durante el día, ¿se tiene que poner el chaleco reflectante?",
+    "options": [
+      "A_ A) No, porque es de día y existe visibilidad suficiente.",
+      "B_ B) Sí.",
+      "C_ C) Sí, sólo si es de noche.",
+      "D_ Ecpli: Si nuestro vehículo se queda parado por una avería en una vía interurbana intentaremos apartarnos de la vía y no quedarnos detenidos para evitar posibles colisiones con él. Posteriormente, de forma obligatoria, deberemos colocarnos un chaleco refectante de alta visibilidad, tanto de día como de noche, para que el resto de conductores puedan visualizarnos."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Entre los diferentes sistemas que componen el motor de un vehículo, ¿en cuál se encuadra el catalizador?",
+    "options": [
+      "A_ A) Sistema de escape.",
+      "B_ B) Sistema de lubricación.",
+      "C_ C) Sistema de distribución.",
+      "D_ Ecpli: El catalizador o convertidor catalítico se ha convertido en un elemento primordial a la hora de tratar los gases perjudiciales que salen por el tubo de escape de los automóviles. El catalizador tiene como misión disminuir los elementos contaminantes contenidos en los gases de escape de un vehículo mediante la técnica de la catálisis. y formará parte del sistema de escape, situándose entre el tubo de escape y el colector."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si por alguna razón, el vehículo que conduce está sometido a las normas sobre el tiempo de conducción y descanso, sabrá que el tiempo diario de conducción...",
+    "options": [
+      "A_ A) en ningún caso puede ser superior a las 9 horas.",
+      "B_ B) no puede ser superior a las 9 horas, ampliable hasta 10 horas un máximo de dos veces a la semana.",
+      "C_ C) no puede ser superior a las 9 horas, ampliable hasta 11 horas un máximo de tres veces a la semana.",
+      "D_ Expli: El tiempo diario de conducción no será superior a nueve horas. No obstante, el tiempo diario de conducción podrá ampliarse como máximo hasta 10 horas no más de dos veces durante la semana. Los tiempos diario y semanal de conducción incluirán todas las horas de conducción en el territorio comunitario o de un país tercero."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Para qué sirve un mecanismo intercambiador de calor o intercooler?",
+    "options": [
+      "A_ A) Mejorar la lubricación del mecanismo turbocompresor.",
+      "B_ B) Enfriar el aire de la admisión.",
+      "C_ C) Calentar el aire de la transmisión.",
+      "D_ Expli: El intercooler es un radiador aire-aire o aire-agua que tiene como función la de enfriar el aire comprimido de la admisión por el turbocompresor o sobrealimentador de un motor de combustión interna."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "En los casos de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier circunstancia análoga, la luz de corto alcance o de cruce, ¿puede utilizarse aisladamente?",
+    "options": [
+      "A_ A) Sí, o simultáneamente con la luz antiniebla delantera.",
+      "B_ B) Sí, o simultáneamente con la luz de carretera.",
+      "C_ C) No.",
+      "D_ Expli: Durante el día por vías interurbanas en condiciones meteorológicas adversas, como una débil nevada, encenderemos el alumbrado de corto alcance o cruce junto con el de posición o aisladamente tanto de día como de noche. Si las condiciones meteorológicas empeoraran sería conveniente también utilizar la luz antiniebla delantera y trasera."
+    ],
+    "correct": 0
+  },
+  {
+    "question": " Si circula con su camión de 5.000 kilogramos de MMA por una carretera convencional, a la vista de la señalización (prohibicion de adelantamiento) ¿Qué distancia deberá guardar con el vehículo que le precede?",
+    "options": [
+      "A_ A) La que me permita adelantar con seguridad a los vehículos.",
+      "B_ B) La que me permita detenerme en caso de frenada brusca, sin colisionar con él.",
+      "C_ C) 50 metros.",
+      "D_ Expli: Los vehiculos que tengan una MMA superior a 3.500kg y los conjuntos de vehiculos que tengan mas de 10 metros de longitud, deberán guardar un minimo de 50 metros, excepto: En poblado. Donde estuviere prohibido el adelantamiento. Donde hubiere más de un carril destinado a la circulación en su mismo sentido. Cuando la circulación estuviere tan saturada que no permita el adelantamiento."
+    ],
+    "correct": 1
+  },
+  {
+    "question": " ¿Cuánto puede sobresalir por la parte posterior una carga de longitud indivisible en un camión de 6 metros de longitud?",
+    "options": [
+      "A_ A) 2 metros.",
+      "B_ B) 3 metros.",
+      "C_ C) Dos tercios de la longitud del camión.",
+      "D_ Expli: En los vehículos destinados al transporte de mercancías como los camion, con una longitud máxima de más de 5 metros, una carga de longitud indivisible podrá sobresalir como máximo 3 metros por la parte posterior del vehículo y 2 metros por la parte delantera."
+    ],
+    "correct": 1
+  },
+  {
+    "question": " Un conductor que llega a una intersección en la que sólo hay una marca transversal discontinua…",
+    "options": [
+      "A_ A) no debe rebasarla si tiene que ceder el paso por aplicación de las normas de prioridad.",
+      "B_ B) debe detenerse obligatoriamente en la intersección.",
+      "C_ C) puede rebasarla en todos los casos.",
+      "D_ Expli: Una línea discontinua dispuesta a lo ancho de uno o varios carriles es una línea de detención que indica que, ningún vehículo o animal ni su carga deben franquearla, cuando tengan que ceder el paso, en cumplimiento de la obligación impuesta por una señal vertical u horizontal de “ceda el paso”, por una flecha verde de giro de semáforo, o cuando no haya ninguna señal de prioridad por aplicación de las normas que rigen ésta."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El conductor de un vehículo extiende el brazo horizontalmente con la palma de la mano hacia atrás, ¿qué indica?",
+    "options": [
+      "A_ A) Que va a circular marcha atrás.",
+      "B_ B) Que va a girar a la izquierda.",
+      "C_ C) Que tiene intención de inmovilizar el vehículo o de frenar su marcha de modo considerable.",
+      "D_ Expli: La maniobra de marcha atrás será señalizada para que otros usuarios de la vía la adviertan con la correspondiente luz de marcha atrás si el vehículo la llevara, y en caso contrario se señalizará extendiendo el brazo horizontalmente con la palma de la mano hacia atrás."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Se denomina Tren de carretera al…",
+    "options": [
+      "A_ A) Automóvil constituido por un vehículo de motor enganchado a un remolque.",
+      "B_ B) Automóvil constituido por un vehículo de motor acoplado a 1 semirremolque.",
+      "C_ C) Automóvil concebido y construido para realizar, principalmente, el arrastre de un remolque o semirremolque.",
+      "D_ Expli: Un tren de carretera es un conjunto de vehículos constituido por un vehículo de motor con un remolque enganchado. Este conjunto se considerará de tipo pesado si su Masa Máxima Autorizada, compuesta por la suma de los dos ve´hículo que lo conforman, es superior a 3500 kilogramos."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El permiso C autoriza a la conducción de automóviles con una MMA:",
+    "options": [
+      "A_ A) De más de 3,5Tn hasta 12Tn.",
+      "B_ B) De más de 3,5Tn hasta 7,5Tn.",
+      "C_ C) De más de 3,5Tn.",
+      "D_ Expli: Un conductor que obtenga el permiso de conducción de la clase C estará habilitado para manejar automóviles con una Masa Máxima superior a 3500 kilogramos."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cómo se denominan las partes del cigüeñal que le sirven de unión al bloque motor?",
+    "options": [
+      "A_ A) Codos.",
+      "B_ B) Casquillos.",
+      "C_ C) Apoyos.",
+      "D_ Expli: Los apoyos son las partes del cigüeñal que lo unen al bloque motor. Dichos apoyos giran y descansan sobre unos cojinetes antifricción, llamados de bancada; las muñequillas giran dentro de las cabezas de las bielas, que las unen a los pistones; los contrapesos conectan los apoyos con las muñequillas y su forma les permite equilibrar y suavizar el esfuerzo del motor."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es la distancia lateral mínima de seguridad para adelantar a un turismo?",
+    "options": [
+      "A_ A) 1.50 m. como mínimo.",
+      "B_ B) 1.50 m. máximo.",
+      "C_ C) La longitud proporcional a la velocidad y a las características de la calzada.",
+      "D_ Expli: La distancia lateral mínima al realizar un adelantamiento, se establecerá de manera general como aquella suficiente y “proporcional a la velocidad y a las características y anchura de la calzada. En el caso particular de vehículos de dos ruedas, peatones, animales o vehículos de tracción animal, dicha limitación mínima se concreta en 1,50 metros."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si conducimos un camión, y vemos esta señal, ¿qué distancia será aconsejable que mantengamos con el vehículo que va delante y al que pretende adelantar?",
+    "options": [
+      "A_ A) 70 metros como mínimo, en cualquier caso.",
+      "B_ B) 70 metros como máximo.",
+      "C_ C) 70 metros como mínimo, excepto para adelantar.",
+      "D_ Expli: La señal de restricción R-300 de la imagen nos indica que se debe mantener una distancia de, al menos, 70 metros con el vehículo que circula delante, salvo que se tenga intención de adelantar en cuyo caso solamente se deberá mantener la distancia de seguridad."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Para bajar un puerto de montaña, deberá usar, respecto a la marcha con la que subió,...",
+    "options": [
+      "A_ A) una marcha igual.",
+      "B_ B) cualquier marcha.",
+      "C_ C) una marcha superior.",
+      "D_ Expli: Cuando circulemos bajando un puerto de montaña nunca deberemos descender dicha pendiente en punto muerto, ya que ello puede comprometer la seguridad del vehículo. Es por ello que utilizaremos para bajar una marcha igual respecto de la que se utilizó para subir."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El Reglamento (CE) 56/2006 de 15 de Marzo se aplica al transporte por carreta realizado ...",
+    "options": [
+      "A_ A) En todos los países de Europa, aunque no pertenezcan a la CEE",
+      "B_ B) En países de la Comunidad, Suiza y países participantes de Espacio Económico Europeo",
+      "C_ C) En todos los países de la Comunidad Económica Europea",
+      "D_ Expli: El Reglamento (CE) nº 561/2006 del Parlamento Europeo y del Consejo de 15 de Marzo de 2006 regula todas las cuestiones relacionadas con el uso del tacógrafo. Se aplica al transporte por carretera realizado exclusivamente en la Comunidad Europea, Suiza y los países que son parte contratante del Acuerdo sobre el Espacio Económico Europeo."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Se entiende por vehículo industrial:",
+    "options": [
+      "A_ A) Los remolques y semirremolques de M.M.A superior a 3,5Tn.",
+      "B_ B) Vehículos de motor dedicados al transporte de viajeros que no tengan más de 9 asientos incluido el del conductor y sus remolques.",
+      "C_ C) Vehículos de motor dedicados al transporte de mercancías con M.M.A no superior a 3,5Tn, pero no así sus remolques.",
+      "D_ Expli: El Reglamento de Circulación considerará como vehículo industrial a aquellos remolques y semirremolques de Masa Máxima Autorizada superior a 3500 kilogramos."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si debemos conducir un camión de más de 3500 kg de MMA por una vía urbana con tres carriles para el mismo sentido, ¿por qué carril deberemos circular si los carriles no están delimitados por marcas longitudinales?",
+    "options": [
+      "A_ A) Por el carril de la derecha o el central.",
+      "B_ B) Por el carril de la derecha.",
+      "C_ C) Por el que mejor convenga a mi destino.",
+      "D_ Expli: En vías urbanas, cuando dispongan de más de un carril para el mismo sentido los conductores podrán circular por el que más convenga al destino, si estos carriles están delimitados por marcas longitudinales. Si los carriles no están delimitados, se debe circular por la derecha."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Camión en el que las mercancías se transportan en receptáculo abierto por la parte superior es la definición de un vehículo automóvil:",
+    "options": [
+      "A_ A) Góndola",
+      "B_ B) De caja abierta",
+      "C_ C) Plataforma",
+      "D_ Expli: La definición que el reglamento da del camión de caja abierta dice que es aquel tipo de camión en el que las mercancías se transportan en receptáculo abierto por la parte superior, y en el que los laterals pueden ser fijos o abatibles."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Me estará permitido circular con un camión de dos ejes simples si el eje no motor soporta una masa de 10 toneladas?",
+    "options": [
+      "A_ A) No.",
+      "B_ B) SÍ, siempre.",
+      "C_ C) Sí, siempre que la MMA del vehículo no exceda de 18 toneladas.",
+      "D_ Expli: La masa máxima autorizada de un camión de dos ejes es de 18 toneladas. Por otro lado, la masa máxima autorizada de un eje no motor es de 10 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Dónde se expedirá el cuaderno TIR?",
+    "options": [
+      "A_ A) En el país de salida.",
+      "B_ B) En el país de destino.",
+      "C_ C) Es indiferente.",
+      "D_ Expli: El convenio TIR establece las normas para que en el transporte entre aduanas de dos países diferentes no sean necesarias las inspecciones en las aduanas de los países intermedios, ni en sus fronteras. El cuaderno TIR se expide en el país de salida de la mercancía o en el país en el que este establecido o domiciliado el titular de la misma."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El camión concebido especialmente para el transporte de materias sólidas, pulverulentas o granulosas en depósito cerrado y con o sin medios auxiliares para su carga o descarga se denomina…",
+    "options": [
+      "A_ A) De caja cerrada",
+      "B_ B) Capitoné",
+      "C_ C) Silo",
+      "D_ Expli:Un camión de tipo Silo es aquél concebido especialmente para el transporte de materias sólidas, pulverulentas o granulosas, en depósito cerrado y con o sin medios auxiliares para su carga o descarga."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si su vehículo va equipado con un motor de explosión y lleva catalizador en el escape, ¿qué carburante debe utilizar?",
+    "options": [
+      "A_ A) Gasóleo C con bajo contenido en azufre.",
+      "B_ B) Gasolina mezclada con aceite muy fluido pero multigrado.",
+      "C_ C) Gasolina sin plomo.",
+      "D_ Expli: Los catalizadores con los que puede ir equipado un motor de explosión son incompatibles con los aditivos antidetonantes que contengan plomo, es por ello que siempre que encontremos este dispositivo en nuestro motor el carburante que se deberá utilizar es gasolina sin plomo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Para calcular la TARA de un vehículo, ¿se incluye el personal de servicio?",
+    "options": [
+      "A_ A) Sí, pero solo el acompañante.",
+      "B_ B) No.",
+      "C_ C) Sí.",
+      "D_ Expli:Según el Reglamento de Circulación para calcular la tara de un vehículo se incluirá la masa del vehículo con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios necesarios."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Cada cuánto tiempo se realizará el visado de las autorizaciones de transporte?",
+    "options": [
+      "A_ A) Cada año.",
+      "B_ B) Cada dos años.",
+      "C_ C) Cada cinco años.",
+      "D_ Expli: El visado de las autorizaciones de transporte se debe realizar cada dos años. La administración renueva entonces la autorización de transporte y sus copias, previa acreditación de que la empresa solicitante cumple los requisitos legalmente establecidos."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Isotermo que, con ayuda de una fuente de frío, distinto de un equipo mecánico o de “absorción”, permite bajar la temperatura en la caja y mantenerla, define un vehículo:",
+    "options": [
+      "A_ A) Isotermo",
+      "B_ B) Frigorífico",
+      "C_ C) Refrigerante",
+      "D_ Expli: El vehículo automóvil refrigerante es un tipo de camión isotermo que, con ayuda de una fuente de frío, distinta de un equipo mecánico o de absorción, permite bajar la temperatura en el interior de la caja del camión y mantenerla."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si Usted se encuentra con su camión averiado en el arcén de una vía interurbana, durante el día, ¿se tiene que poner el chaleco reflectante?",
+    "options": [
+      "A_ A) No, porque es de día y existe visibilidad suficiente.",
+      "B_ B) Sí, sólo si es de noche.",
+      "C_ C) Sí.",
+      "D_ Expli: Si nuestro vehículo se queda parado por una avería en una vía interurbana intentaremos apartarnos de la vía y no quedarnos detenidos para evitar posibles colisiones con él. Posteriormente, de forma obligatoria, deberemos colocarnos un chaleco refectante de alta visibilidad, tanto de día como de noche, para que el resto de conductores puedan visualizarnos."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué garantiza el sistema neumático de suspensión utilizado por algunos camiones de gran tonelaje?",
+    "options": [
+      "A_ A) La disminución de la sobrecarga que existía sobre los muelles mecánicos.",
+      "B_ B) La nivelación automática de la carrocería.",
+      "C_ C) La mejora del comportamiento del vehículo, ya que aumenta el peso suspendido en cada uno de los ejes del mismo.",
+      "D_ Expli: El sistema de suspension neumática que encontramos en algunos camiones de gran tonelaje aprovecha la instalación de aire comprimido para el circuito de alimentación y permite la nivelación automatic de la carrocería en function de la carga transportada."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "La somnolencia hace que… (rgad)",
+    "options": [
+      "A_ A) resulte más fácil mantener la concentración en el tráfico.",
+      "B_ B) aumente las distracciones.",
+      "C_ C) disminuya el tiempo de reacción.",
+      "D_ Expli: La somnolencia al volante entre otros efectos produce un aumento del tiempo de reacción, así como un aumento también de las distracciones al volante ya que impide concentrarse en el tráfico y en los posibles obstáculos o peligros que aparezcan en la vía."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si al dar al contacto no se encendiera ninguna luz en el tablero de instrumentos de su camión, para saber cual es el fallo deberá comprobar...",
+    "options": [
+      "A_ A) el conectador y desconectador de la batería.",
+      "B_ B) el mecanismo de la llave de contacto.",
+      "C_ C) la conexión de las placas de la batería.",
+      "D_ Expli: Cuando el conmutador conectador-desconectador de la batería de un vehículo esté accionado se encenderá en el tablero de instrumentos del camión una luz led de color rojo, Así pues, si comprobamos que ninguna de las luces de este tablero se enciende, deberíamos comprobar qué tipo de fallo tienen el conectador y el desconectador de la batería."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si conduce un camión de cuatro ejes, debe saber que la longitud máxima autorizada, incluida su carga, no podrá exceder, como norma general, de...",
+    "options": [
+      "A_ A) 16,50 metros.",
+      "B_ B) 12 metros.",
+      "C_ C) 15 metros.",
+      "D_ Expli: La longitud maxima autorizada para un camión, incluída la carga, y sea cual sea el número de ejes que contenga será de 12 metros. Serán indiferentes pues, el número de ejes que conformen dicho camión rígido."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Para qué sirve el sangrador (purgador) en el circuito neumático de frenos?",
+    "options": [
+      "A_ A) Eliminar el agua que se condensa en los calderines.",
+      "B_ B) Regular la presión máxima del circuito.",
+      "C_ C) Vaciar el aire que pueda existir en el circuito.",
+      "D_ Expli: El sangrador o purgador de un sistema neumático de frenos se encarga de eliminar el agua que se queda condensada en los calderines."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si encuentra agua en el aceite del motor, ¿a qué puede ser debido?",
+    "options": [
+      "A_ A) A la rotura o deterioro de algún manguito.",
+      "B_ B) A una ranura en el cárter.",
+      "C_ C) A que la junta de la culata está quemada o en mal estado.",
+      "D_ Expli: Podremos saber cuando una junta de culata está en mal estado cuando ésta tenga una temperatura exageradamente superior a la que este elemento es capaz de soportar. Dicho deterioro se producirá generalmente por pérdidas de agua, haciendo que la junta de culata se queme y deje de cumplir su función. Así pues cuando encontremos agua en el aceite del motor sabremos que viene de una junta de culata deteriorada."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "La cifra que indica el índice de carga, que vá montado en un vehículo industrial, está formado por dos números separados por una barra, por ejemplo: 150/146. ¿Qué está advirtiendo?",
+    "options": [
+      "A_ A) Que el indice de utilización varía dependiendo de si el neumático va en el eje delantero o en el eje trasero.",
+      "B_ B) Que la capacidad de carga varía según vaya instalado en un eje fijo o alzable.",
+      "C_ C) Que la capacidad de carga del neumático es distinta, según el tipo de montaje que se haga (sencillo o gemelo).",
+      "D_ Expli: El hecho de que ambos número sean distintos indica que la capacidad de carga del neumático es distinta. Para el índice de capacidad de carga de un neumático existirá una tabla de relación de índices con sus equivalentes capacidades de carga siendo el número más alto correspondiente al montaje sencillo del mismo, y el más bajo, correspondiente al montaje en gemelo. Cuando el neumático tenga índices de capacidad de carga para montaje en simple y en gemelo, se tomará como base para las cargas de ensayo la carga de referencia para montaje en simple."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Según la normativa de circulación, un vehículo pesado es un...",
+    "options": [
+      "A_ A) Vehículo destinado al transporte de mercancías cuya MMA exceda de 3.500Kgs.",
+      "B_ B) Automóvil para el transporte de mercancías, cuya M.M.A. no exceda de 6 Tm o que aun sobrepasando dicha masa, tenga una capacidad de carga útil exceda de 3,5 Tm.",
+      "C_ C) Automóvil especialmente acondicionado para el transporte de mercancías, cuya M.M.A. sea superior a 6 TM y cuya capacidad de carga útil superior a 3.500Kgs.",
+      "D_ Expli: Para ser considerado como vehículo pesado el Reglamento General de vehículo establece que el vehículo del que se trate debe estar destinado al transporte de mercancías, su Masa Máxima Autorizada ser superior a 6 toneladas y su capacidad de carga exceda de 3,5 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "En una vía urbana de doble sentido de circulación, ¿dónde deberá realizar una parada o un estacionamiento?",
+    "options": [
+      "A_ A) En el lado derecho o izquierdo, indistintamente, siempre y cuando se realice fuera de la calzada.",
+      "B_ B) En el lado derecho y únicamente fuera de la calzada.",
+      "C_ C) En el lado derecho.",
+      "D_ Expli: En vías urbanas solamente se puede realizar la parada y el estacionamiento en el lado derecho si la vía es de doble sentido y si la vía es de sentido único se podrá parar y estacionar en ambos lados."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuándo le está prohibido girar hacia la izquierda?",
+    "options": [
+      "A_ A) Cuando no tenga un carril acondicionado para el giro a la izquierda.",
+      "B_ B) Cuando no tenga una señal que me lo permita.",
+      "C_ C) Cuando no tenga visibilidad suficiente.",
+      "D_ Expli: Estará prohibido realizar un giro a la izquierda para cambiar de dirección con nuestro vehículo, cuando no tengamos suficiente visibilidad para realizar la maniobra con seguridad o cuando para ello invadamos el sentido contrario de la marcha. En todo caso, siempre deberemos dejar el centro de la intersección a la izquierda."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "El permiso de circulación es obligatorio para:",
+    "options": [
+      "A_ A) Todos los vehículos, así como los remolques y semirremolques que excedan en su MMA de 750 kg.",
+      "B_ B) Todos los vehículos a motor, así como los remolques y semirremolques que no excedan en su MMA de 750 kg.",
+      "C_ C) Todos los vehículos a motor, así como los remolques y semirremolques que excedan en su MMA de 750 kg.",
+      "D_ Expli: Todos los vehículos de motor, y remolques y semirremolques de más de 750 kilogramos deberá tener su propio permiso de circulación de forma obligatoria. Los remolques y semirremolques de M.M.A. inferior a 750 kg NO estarán obligados a poseer permiso de circulación."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Me estará permitido circular con un camión de dos ejes simples si el eje no motor soporta una masa de 10 toneladas?",
+    "options": [
+      "A_ A) SÍ, siempre.",
+      "B_ B) No.",
+      "C_ C) Sí, siempre que la MMA del vehículo no exceda de 18 toneladas.",
+      "D_ Expli: La masa máxima autorizada de un camión de dos ejes es de 18 toneladas. Por otro lado, la masa máxima autorizada de un eje no motor es de 10 toneladas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "En un motor de cuatro cilindros y cuatro tiempos, a una carrera del pistón corresponde ...",
+    "options": [
+      "A_ A) Una vuelta del cigüeñal.",
+      "B_ B) Media vuelta del cigüeñal.",
+      "C_ C) Dos vueltas del cigüeñal.",
+      "D_ Expli: En el ciclo de cuatro tiempos, por cada explosión, de un mismo cilindro, el cigüeñal da dos vueltas completas, perdiendo gran parte de la fuerza entre explosión y explosion. Si combinamos cuatro cilindros de tal forma que por cada media vuelta haya una explosión, minimizaremos la perdida de fuerza."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "En condiciones ambientales adversas, la separación o distancia de seguridad, debe aumentarse en al menos...",
+    "options": [
+      "A_ A) cinco segundos más.",
+      "B_ B) un segundo más.",
+      "C_ C) dos segundos más.",
+      "D_ Expli: La norma general dice que se deberá mantener una distancia de seguridad de dos segundos con el vehículo que nos precede y de tres segundo si se trata de vías fuera de poblado. En cambio, cuando circulemos en condiciones ambientales adversas dicha separación de seguridad deberá aumentarse en al menos un segundo más."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si el agente levanta el brazo y no podemos detener nuestro vehículo en condiciones de seguridad…",
+    "options": [
+      "A_ A) tenemos que detenernos en todo caso.",
+      "B_ B) solo obliga a los vehículos que ven al agente de frente.",
+      "C_ C) no tenemos la obligación de detenernos.",
+      "D_ Expli: Cuando nos acerquemos de frente a un agente de la circulación que se encuentra con el brazo levantado verticalmente dicha señal nos obligará a detener nuestro vehículo excepto en el caso de que no se pueda realizar dicha detención en condiciones de seguridad, en que no estaremos obligados a hacerlo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Si la separación entre los centros de los dos ejes que componen el eje doble del camión que conduce es de 1,25 metros, debe saber que la masa máxima sobre dicho eje doble no debe exceder de...",
+    "options": [
+      "A_ a) 11,5 toneladas.",
+      "B_ b) 16 toneladas.",
+      "C_ c) 18 toneladas.",
+      ""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Como norma general, ¿qué distancia de seguridad debe mantener con el vehículo que le precede, si conduce un camión de 3.500 kg de MMA, por una carretera convencional con un carril por sentido?",
+    "options": [
+      "A_ a) 50 metros.",
+      "B_ b) 150 metros.",
+      "C_ c) La que permita detener mi vehículo en caso de frenado brusco, sin colisionar con el vehículo que me precede y la que además permita al que me siga detrás adelantar con seguridad.",
+      ""
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Esta señal indica a los conductores que la encuentren de frente en su sentido que tienen prohibida la entrada...",
+    "options": [
+      "A_ a) todos los vehículos destinados al transporte de mercancías.",
+      "B_ b) los vehículos destinado al transporte de mercancías, entendiéndose por tales los camiones y furgones.",
+      "C_ c) los vehículos destinados al transporte de mercancías y los vehículos mixtos adaptables.",
+      ""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Deberé realizar algún mantenimiento especial, si el motor de mi vehículo utiliza un sistema de distribución con correa dentada?",
+    "options": [
+      "A_ A) Sí, sustituirla periódicamente.",
+      "B_ B) Sí, engrasarla periódicamente.",
+      "C_ C) No.",
+      "D_ Expli: Si el motor del vehículo utiliza un sistema de distribución con correa dentada, ésta se debe sustituir periódicamente, según el plan de mantenimiento que indique el fabricante."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si transporta en el camión que conduce una carga formada por unos postes que sobresalen por la parte delantera del vehículo, ¿cuándo deberá señalizarla?",
+    "options": [
+      "A_ A) Tanto de día como de noche.",
+      "B_ B) Cuando circule entre la puesta y la salida del sol o en condiciones meteorológicas o ambientales que disminuyen la visibilidad.",
+      "C_ C) Únicamente si sobresale más de 1 metro y solo durante la noche.",
+      "D_ Expli: Si la carga que transporta nuestro camión sobresale por la parte delantera del mismo siempre deberá señalizarse con una luz blanca cuando se circule entre la puesta y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Pueden circular por el arcén los camiones de MMA superior a 3.500 kg?",
+    "options": [
+      "A_ A) No.",
+      "B_ B) Sí, en cualquier caso.",
+      "C_ C) Sí, cuando por razones de emergencia lo hagan a velocidad anormalmente reducida, perturbando gravemente la circulación.",
+      "D_ Expli: La utilización del arcén estará prohibida para los vehículos con masa máxima autorizada superior a 3500 kilogramos y para los autobuses en general. Como norma general el arcén de las autopistas y autovías no puede ser utilizado para circular, parar o estacionar aunque la circulación en la vía sea densa. El arcén debe permanecer libre para que sea utilizado por los vehículos con MMA menor de 3500 kg que por una emergencia circulen a velocidad anormalmente reducida, por los vehículos prioritarios y por los vehículos de MMA inferior a 3500 kg y obligados a circular por él."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Para qué sirve el sangrador (purgador) en el circuito neumático de frenos?",
+    "options": [
+      "A_ A) Eliminar el agua que se condensa en los calderines.",
+      "B_ B) Vaciar el aire que pueda existir en el circuito.",
+      "C_ C) Regular la presión máxima del circuito.",
+      "D_ Expli: El sangrador o purgador de un sistema neumático de frenos se encarga de eliminar el agua que se queda condensada en los calderines."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La escala del mapa de carreteras que usa es de 1: 300.000. ¿Un centímetro lineal en el mapa, equivale a...?",
+    "options": [
+      "A_ A) 3 Km.",
+      "B_ B) 30 Km.",
+      "C_ C) 300 metros.",
+      "D_ Expli: Por lo general en los mapas de carreteras se empleará la escala centímetro/kilómetro (cm/km). Ello significa que un centímetro lineal en el mapa corresponde a 1.300.000 de las mismas unidades en la superficie de la tierra por lo que un centímetro lineal equivaldrá a 3.000 metros o 3 kilómetros respectivamente."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Cómo se denominan las partes del cigüeñal que le sirven de unión al bloque motor?",
+    "options": [
+      "A_ A) Casquillos.",
+      "B_ B) Codos.",
+      "C_ C) Apoyos.",
+      "D_ Expli: Los apoyos son las partes del cigüeñal que lo unen al bloque motor. Dichos apoyos giran y descansan sobre unos cojinetes antifricción, llamados de bancada; las muñequillas giran dentro de las cabezas de las bielas, que las unen a los pistones; los contrapesos conectan los apoyos con las muñequillas y su forma les permite equilibrar y suavizar el esfuerzo del motor."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cómo se conseguirá un calentamiento bueno y rápido del líquido refrigerante, y por tanto del motor?",
+    "options": [
+      "A_ A) Impidiendo la circulación del líquido refrigerante del radiador a la calefacción.",
+      "B_ B) Impidiendo la circulación del líquido refrigerante del motor al radiador.",
+      "C_ C) Acelerando el motor a un régimen medio alto.",
+      "D_ Expli: Para que el motor se caliente de manera correcta y rápida, el termostato debe estar cerrado para impedir que el líquido refrigerante circule hacia el radiador, con lo que el motor tomará temperatura rápidamente. Al alcanzar el motor y el líquido la temperatura adecuada, el termostato debe permitir el paso de este líquido hacia el radiador para su enfriamiento."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Cuando el amortiguador, por el paso del tiempo, se deteriora y pierde efectividad, ¿cómo afecta a la suspensión?",
+    "options": [
+      "A_ A) Frena más las oscilaciones de los muelles o, en su caso, las ballestas.",
+      "B_ B) Frena menos las oscilaciones de los muelles o, en su caso, ballestas.",
+      "C_ C) No afecta, por ser un elemento que corresponde a otro sistema independiente de la suspensión.",
+      "D_ Expli: El mal estado de los amortiguadores de un vehículo, ya sea por su deterioro o el paso del tiempo, puede hacer que el resto de las piezas del sistema de suspensión, como los cojinetes, rótulas, brazos y demás soportes- se desgasten más rápidamente además de frenar menos las oscilaciones de los muelles o, en su caso de las ballestas. Es importante sustituirlo por otro en buen estado ya que una suspensión dañada puede desequilibrar por completo el vehículo y causar un trompo."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si un hombre y una mujer que tienen el mismo peso consumen idéntica cantidad de alcohol, el sexo del conductor, ¿es uno de los factores que puede influir en la tasa de alcoholemia?",
+    "options": [
+      "A_ A) Sí, es más probable que el hombre tenga una tasa de alcoholemia más elevada.",
+      "B_ B) Sí, es más probable que la mujer tenga una tasa de alcoholemia más elevada.",
+      "C_ C) No.",
+      "D_ Expli: El alcohol se distribuye por el cuerpo de forma distinta en los hombres y las mujeres. Es por ello que las mujeres pueden presentar tasas de alcoholemia más altas con la misma cantidad de bebida, especialmente si son jóvenes."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué es un aceite lubricante con especificación SAE 15W-40?",
+    "options": [
+      "A_ A) Un aceite multigrado.",
+      "B_ B) Un aceite exclusivo para motores diesel muy sensible a los cambios de temperatura.",
+      "C_ C) Un aceite monogrado.",
+      "D_ Expli: Un aceite multigrado es aquel que cumple los requerimientos de más de un grado de la clasificación de viscosidad SAE y puede ser capaz de ser usado en un amplio rango de temperatura. El número 15W realmente se refiere a la facilidad con la que el aceite puede ser “bombeado” en bajas temperaturas, mientras más bajo sea el número “W”, mejores serán sus propiedades de baja viscosidad."
+    ],
+    "correct": 0
   }
 ]
