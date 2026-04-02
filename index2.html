@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>Quiz App</title>
+<style>
+body {
+    font-family: Arial;
+    direction: rtl;
+    text-align: center;
+    background: #f5f5f5;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    cursor: pointer;
+}
+
+.correct { background: green; color: white; }
+.wrong { background: red; color: white; }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="top-bar">
+    <span>السؤال: <span id="qNumber">0</span></span>
+    <span>الأخطاء: <span id="errorCounter">0</span></span>
+</div>
+
+<h3 id="question"></h3>
+
+<div id="answers"></div>
+
+<label>
+<input type="checkbox" id="markDifficult"> سؤال صعب
+</label>
+
+<button onclick="restartQuiz()">إعادة الاختبار</button>
+<button onclick="startDifficultQuiz()">اختبار الأسئلة الصعبة</button>
+
+</div>
+
+<script>
+
+const originalQuestions = [
+    {q: "2 + 2 = ؟", a: ["3", "4", "5"], correct: 1},
+    {q: "عاصمة فرنسا؟", a: ["مدريد", "باريس", "روما"], correct: 1},
+    {q: "5 × 3 = ؟", a: ["15", "10", "20"], correct: 0}
+];
+
+let questions = [...originalQuestions];
+let currentQuestion = 0;
+let errorCount = 0;
+let difficultQuestions = [];
+
+function startQuiz() {
+    currentQuestion = 0;
+    errorCount = 0;
+    updateUI();
+    loadQuestion();
+}
+
+function loadQuestion() {
+    if (currentQuestion >= questions.length) {
+        alert("انتهى الاختبار");
+        return;
+    }
+
+    const q = questions[currentQuestion];
+
+    document.getElementById("question").innerText = q.q;
+    document.getElementById("qNumber").innerText = currentQuestion + 1;
+
+    const answersDiv = document.getElementById("answers");
+    answersDiv.innerHTML = "";
+
+    document.getElementById("markDifficult").checked = difficultQuestions.includes(q);
+
+    q.a.forEach((ans, index) => {
+        let btn = document.createElement("button");
+        btn.innerText = ans;
+
+        btn.onclick = () => checkAnswer(index, q, btn);
+
+        answersDiv.appendChild(btn);
+    });
+}
+
+function checkAnswer(index, question, button) {
+    const buttons = document.querySelectorAll("#answers button");
+
+    if (index === question.correct) {
+        button.classList.add("correct");
+    } else {
+        button.classList.add("wrong");
+        errorCount++;
+        updateUI();
+
+        document.getElementById("markDifficult").checked = true;
+
+        if (!difficultQuestions.includes(question)) {
+            difficultQuestions.push(question);
+        }
+    }
+
+    setTimeout(() => {
+        currentQuestion++;
+        loadQuestion();
+    }, 800);
+}
+
+document.getElementById("markDifficult").addEventListener("change", function() {
+    let question = questions[currentQuestion];
+
+    if (this.checked) {
+        if (!difficultQuestions.includes(question)) {
+            difficultQuestions.push(question);
+        }
+    } else {
+        difficultQuestions = difficultQuestions.filter(q => q !== question);
+    }
+});
+
+function updateUI() {
+    document.getElementById("errorCounter").innerText = errorCount;
+}
+
+function restartQuiz() {
+    questions = [...originalQuestions];
+    startQuiz();
+}
+
+function startDifficultQuiz() {
+    if (difficultQuestions.length === 0) {
+        alert("لا توجد أسئلة صعبة");
+        return;
+    }
+
+    questions = [...difficultQuestions];
+    startQuiz();
+}
+
+// بدء التطبيق
+startQuiz();
+
+</script>
+
+</body>
+</html>

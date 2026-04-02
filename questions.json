@@ -1,0 +1,32 @@
+[
+  {
+    "question": "La masa en carga es:",
+    "options": [
+      "A_ masa del vehículo + carga + conductor.",
+      "B_ masa del vehículo + 75k del conductor.",
+      "C_ tara + carga.",
+      ""
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La masa en orden de marcha es:",
+    "options": [
+      "A_ masa del vehículo + carga + conductor.",
+      "B_ tara + carga.",
+      "C_ masa del vehículo + 75k del conductor.",
+      ""
+    ],
+    "correct": 2
+  },
+  {
+    "question": "vehículos acondicionados:",
+    "options": [
+      "A_ aquellos vehículos que trabajan a temperaturas derijidas, calorifica o frigoríficas.",
+      "B_ aquellos vehículos que se dedican a obras, servicios o son agrícolas...",
+      "C_ se configuran de dos que son el tractor y la tractora con su semirremolque.",
+      ""
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz Pro</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+<header>
+  <h2 id="progress"></h2>
+
+  <label>
+    <input type="checkbox" id="markDifficult"> سؤال صعب
+  </label>
+
+  <button class="dark-btn" onclick="toggleDark()">🌙</button>
+</header>
+
+<!-- شريط التقدم -->
+<div class="progress-bar">
+  <div id="progressFill"></div>
+</div>
+
+<div class="card">
+  <h3 id="question"></h3>
+  <div id="answers"></div>
+</div>
+
+<div class="card info">
+  <span id="wrongCount"></span>
+</div>
+
+<div class="nav">
+  <button onclick="prev()">⬅️</button>
+  <button onclick="next()">➡️</button>
+</div>
+
+<div class="nav">
+  <button onclick="startDifficult()">🔥 الأسئلة الصعبة</button>
+  <button onclick="restart()">🔄 إعادة الاختبار</button>
+</div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

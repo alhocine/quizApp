@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI';
+    background: #f0f2f5;
+    transition: 0.3s;
+  }
+  
+  .dark {
+    background: #121212;
+    color: white;
+  }
+  
+  .app {
+    max-width: 420px;
+    margin: auto;
+    padding: 15px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .progress-bar {
+    height: 8px;
+    background: #ddd;
+    border-radius: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+  
+  #progressFill {
+    height: 100%;
+    width: 0%;
+    background: #4caf50;
+    transition: 0.3s;
+  }
+  
+  .card {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .dark .card {
+    background: #1e1e1e;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  .correct { background: #28a745; color: white; }
+  .wrong { background: #dc3545; color: white; }
+  
+  .nav {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .dark-btn {
+    width: auto;
+    padding: 8px;
+  }
+  
+  .info {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* صفحة النتائج */
+  .result {
+    text-align: center;
+  }
